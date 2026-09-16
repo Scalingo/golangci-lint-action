@@ -1,7 +1,7 @@
 dependencies = []
 description = "Fork of the official GitHub Action for golangci-lint"
 flags = ["tools"]
-languages = ["javascript"]
+languages = ["javascript", "github-actions"]
 owner = "team-infrastructure-services@scalingo.com"
 team = "IST"
 tier = 1
